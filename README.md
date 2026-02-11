@@ -1,7 +1,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/BCNTransit/bcn-transit-app">
-    <img src="assets/logo.png" alt="BCN Transit App Logo" width="150" height="150">
+    <img src="assets/header.png" alt="BCN Transit App Logo">
   </a>
 
   <h3 align="center">BCN Transit App</h3>
